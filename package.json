@@ -9,9 +9,9 @@
     "lint": "next lint"
   },
   "author": {
-    "name": "Sanidhya Kumar Verma",
-    "email": "sanidhya.verma12345@gmail.com",
-    "url": "https://github.com/sanidhyy"
+    "name": "Ritesh Sharma",
+    "email": "rs3907367@gmail.com",
+    "url": "https://github.com/Riteshsharm"
   },
   "description": "Welcome to my full stack Next.js 14 space portfolio.",
   "keywords": [
@@ -48,30 +48,22 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sanidhyy/space-portfolioit"
+    "url": "https://github.com/Riteshsharm/space-portfolioit"
   },
-  "homepage": "https://github.com/sanidhyy/space-portfolio#readme",
+  "homepage": "https://github.com/sanidhyy/space-portfolio#readme pase thi github jab ham apane wed ko gihub pe dalenge tab",
   "bugs": {
-    "url": "https://github.com/sanidhyy/space-portfolio/issues",
-    "email": "sanidhya.verma12345@gmail.com"
+    "url": "https://github.com/sanidhyy/space-portfolio/issues yaha par bhi link pase karna hai",
+    "email": "rs3907367@gmail.com"
   },
-  "funding": [
-    {
-      "type": "patreon",
-      "url": "https://www.patreon.com/sanidhy"
-    },
-    {
-      "type": "Buy me a coffee",
-      "url": "https://www.buymeacoffee.com/sanidhy"
-    }
-  ],
+ 
+  
   "dependencies": {
     "@heroicons/react": "^2.1.1",
     "@react-three/drei": "^9.93.0",
     "@react-three/fiber": "^8.15.13",
     "clsx": "^2.1.0",
     "framer-motion": "^10.17.12",
-    "next": "14.2.15",
+    "next": "^14.2.32",
     "react": "^18",
     "react-dom": "^18",
     "react-icons": "^5.0.1",

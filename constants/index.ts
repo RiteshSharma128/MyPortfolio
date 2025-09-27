@@ -89,7 +89,7 @@ export const SOCIALS = [
     icon: RxInstagramLogo,
     link: "https://instagram.com",
   },
-  {
+   {
     name: "Facebook",
     icon: FaFacebook,
     link: "https://facebook.com",
@@ -175,19 +175,19 @@ export const OTHER_SKILL = [
 
 export const PROJECTS = [
   {
-    title: "🛒 Tekisky Mart – The Future of eCommerce",
+    title: "📷 Book the perfect camera for your events and capture every special moment effortlessly",
     
     image: "/projects/project-1.webp",
     link: "https://tekiskymart.com/",
   },
   {
-    title: "Tekisky – The Future of Tech",
+    title: "OneCart – The Future of E-Commerce",
 
     image: "/projects/project-2.webp",
     link: "https://tekisky.com/",
   },
   {
-    title: "Speedline Auto Parts – The Future of Auto Parts",
+    title: "Voice Assistance – The Future of Speak",
    
     image: "/projects/project-3.webp",
     link: "https://speedlineautoparts.netlify.app/",
@@ -214,7 +214,7 @@ export const FOOTER_DATA = [
       {
         name: "Linkedin",
         icon: RxLinkedinLogo,
-        link: "https://www.linkedin.com/in/abdul-raheman-389597281/",
+        link: "https://www.linkedin.com/in/ritesh-sharma-19b213367/",
       },
     ],
   },
