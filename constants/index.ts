@@ -178,19 +178,19 @@ export const PROJECTS = [
     title: "📷 Book the perfect camera for your events and capture every special moment effortlessly",
     
     image: "/projects/project-1.webp",
-    link: "https://tekiskymart.com/",
+    link: "",
   },
   {
     title: "OneCart – The Future of E-Commerce",
 
     image: "/projects/project-2.webp",
-    link: "https://tekisky.com/",
+    link: "",
   },
   {
-    title: "Voice Assistance – The Future of Speak",
+    title: "Bike Rental System – Ride with Ease",
    
     image: "/projects/project-3.webp",
-    link: "https://speedlineautoparts.netlify.app/",
+    link: "",
   },
 ] as const;
 
